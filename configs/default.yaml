@@ -1,0 +1,30 @@
+seed: 42
+
+data_path: data/synthetic_comments.json
+
+memory:
+  top_k: 3
+  min_similarity: 0.05
+  backend: "tfidf"       # tfidf | sbert (requires sentence-transformers model download)
+  persistence_path: null # e.g., "data/memory_snapshot.json"
+  embed_model: "sentence-transformers/all-MiniLM-L6-v2"
+
+student:
+  backend: "hf"          # heuristic | hf | openai
+  model: "gpt2"          # small HF model for offline/local tests
+  use_llm: false         # legacy flag; ignored when backend is set
+  max_tokens: 128
+  temperature: 0.4
+
+expert:
+  backend: "hf"          # heuristic | hf | openai
+  model: "gpt2"          # you can swap to a larger HF model locally
+  use_llm: false
+  max_tokens: 256
+  temperature: 0.2
+
+loop:
+  max_messages: 50
+  audit_every: 1
+  log_path: "logs/run_log.jsonl"
+
