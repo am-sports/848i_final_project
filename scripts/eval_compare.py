@@ -34,7 +34,7 @@ def run_modes(config_path: Path):
     # Mode B: Student + Expert + Memory (current loop)
     student = StudentAgent(config.student.model_dump(), None, cost_tracker=cost_tracker_full)
     expert = ExpertAgent(config.expert.model_dump(), cost_tracker=cost_tracker_full)
-    
+
     # Mode C: Expert only
     expert_only = ExpertAgent(config.expert.model_dump(), cost_tracker=cost_tracker_expert_only)
     memory = SimpleVectorStore(
@@ -52,7 +52,7 @@ def run_modes(config_path: Path):
         req = ModerationRequest(
             comment=row["comment"],
             meta=row.get("meta", {}),
-            persona=row.get("persona", "firm_professional"),
+            persona="firm_professional",  # Default persona since it's no longer in data
             retrieved=[],
         )
 
@@ -73,7 +73,7 @@ def run_modes(config_path: Path):
         req_b = ModerationRequest(
             comment=row["comment"],
             meta=row.get("meta", {}),
-            persona=row.get("persona", "firm_professional"),
+            persona="firm_professional",  # Default persona since it's no longer in data
             retrieved=retrieved,
         )
         student_out = student.moderate(req_b)
@@ -85,7 +85,7 @@ def run_modes(config_path: Path):
                 state=row["comment"],
                 reasoning=expert_out.reasoning,
                 plan=expert_out.plan,
-                persona=row.get("persona", "firm_professional"),
+                persona="firm_professional",  # Default persona since it's no longer in data
             )
             memory.add(mem_entry)
             stats["student_plus_memory"]["memory_adds"] += 1
@@ -100,7 +100,7 @@ def run_modes(config_path: Path):
         "student_plus_memory": cost_tracker_full.get_stats(),
         "expert_only": cost_tracker_expert_only.get_stats(),
     }
-    
+
     # Calculate cost savings
     expert_only_cost = stats["costs"]["expert_only"]["total_cost"]
     full_cost = stats["costs"]["student_plus_memory"]["total_cost"]
@@ -120,12 +120,12 @@ def main():
     args = parser.parse_args()
 
     stats = run_modes(args.config)
-    
+
     # Save to file
     args.output.parent.mkdir(parents=True, exist_ok=True)
     with args.output.open("w", encoding="utf-8") as f:
         json.dump(stats, f, indent=2)
-    
+
     # Also print to console
     print(json.dumps(stats, indent=2))
     print(f"\n✅ Results saved to {args.output}")
@@ -133,4 +133,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

@@ -3,23 +3,23 @@ seed: 42
 data_path: data/synthetic_comments.json
 
 memory:
-  top_k: 3
+  top_k: 5  # Top-5 nearest neighbors retrieved for Student
   min_similarity: 0.05
   backend: "tfidf"       # tfidf | sbert (requires sentence-transformers model download)
   persistence_path: null # e.g., "data/memory_snapshot.json"
   embed_model: "sentence-transformers/all-MiniLM-L6-v2"
 
 student:
-  backend: "together"    # heuristic | hf | openai | together
+  backend: "together"    # Always uses Together.ai (required)
   model: "Qwen/Qwen2.5-7B-Instruct-Turbo"  # Together.ai model (32768 context window)
-  use_llm: false         # legacy flag; ignored when backend is set
+  use_llm: false         # legacy flag; ignored
   max_tokens: 256
   temperature: 0.4
 
 expert:
-  backend: "together"    # heuristic | hf | openai | together
+  backend: "together"    # Always uses Together.ai (required)
   model: "meta-llama/Llama-3.3-70B-Instruct-Turbo"  # Together.ai model (131072 context window)
-  use_llm: false
+  use_llm: false         # legacy flag; ignored
   max_tokens: 512
   temperature: 0.2
 
@@ -28,4 +28,3 @@ loop:
   audit_every: 1
   log_path: "logs/run_log.jsonl"
   state_path: "data/user_state.json"  # Path to save/load user state (ban counts, etc.)
-

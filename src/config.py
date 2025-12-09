@@ -17,7 +17,7 @@ class MemoryConfig(BaseModel):
 
 
 class AgentConfig(BaseModel):
-    backend: str = "together"  # options: heuristic, hf, openai, together
+    backend: str = "together"  # Always uses Together.ai (required)
     use_llm: bool = False  # legacy flag; kept for backward compatibility
     model: str = "Qwen/Qwen2.5-7B-Instruct-Turbo"  # default Together.ai model
     max_tokens: int = 256
@@ -52,4 +52,3 @@ class AppConfig(BaseModel):
 def load_config(path: str | Path) -> AppConfig:
     path = Path(path)
     return AppConfig.from_yaml(path)
-

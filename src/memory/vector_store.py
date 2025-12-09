@@ -12,7 +12,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 @dataclass
 class MemoryEntry:
-    state: str
+    state: str  # Combined comment + state string
+    comment: str  # Original comment
+    state_metrics: str  # State metrics string
     reasoning: str
     plan: str
     persona: str
@@ -20,7 +22,8 @@ class MemoryEntry:
 
 class SimpleVectorStore:
     """
-    Vector store for (state, reasoning, plan) triples.
+    Vector store for (comment+state, reasoning, plan) triples.
+    Uses combined comment + state as the key for semantic similarity.
     Supports TF-IDF (default) and optional SBERT embeddings if sentence-transformers is available.
     Includes simple JSON persistence.
     """
@@ -44,6 +47,7 @@ class SimpleVectorStore:
                 self.backend = "tfidf"
 
     def _fit(self):
+        # Use combined comment + state for vectorization
         corpus = [e.state for e in self.entries]
         if not corpus:
             return
@@ -89,7 +93,8 @@ class SimpleVectorStore:
             e = self.entries[idx]
             results.append(
                 {
-                    "state": e.state,
+                    "comment": e.comment,
+                    "state_metrics": e.state_metrics,
                     "reasoning": e.reasoning,
                     "plan": e.plan,
                     "persona": e.persona,
@@ -101,7 +106,14 @@ class SimpleVectorStore:
     def save(self, path: Path) -> None:
         path.parent.mkdir(parents=True, exist_ok=True)
         payload = [
-            {"state": e.state, "reasoning": e.reasoning, "plan": e.plan, "persona": e.persona}
+            {
+                "state": e.state,
+                "comment": e.comment,
+                "state_metrics": e.state_metrics,
+                "reasoning": e.reasoning,
+                "plan": e.plan,
+                "persona": e.persona,
+            }
             for e in self.entries
         ]
         path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
@@ -110,6 +122,33 @@ class SimpleVectorStore:
         if not path.exists():
             return
         raw = json.loads(path.read_text(encoding="utf-8"))
-        entries = [MemoryEntry(**r) for r in raw]
+        # Handle old data format
+        entries = []
+        for r in raw:
+            # Old format might not have comment/state_metrics separated
+            if "comment" in r and "state_metrics" in r:
+                # New format
+                entries.append(
+                    MemoryEntry(
+                        state=r.get("state", ""),
+                        comment=r.get("comment", ""),
+                        state_metrics=r.get("state_metrics", ""),
+                        reasoning=r.get("reasoning", ""),
+                        plan=r.get("plan", ""),
+                        persona=r.get("persona", "firm_professional"),
+                    )
+                )
+            else:
+                # Old format - reconstruct
+                state_str = r.get("state", "")
+                entries.append(
+                    MemoryEntry(
+                        state=state_str,
+                        comment="",  # Unknown in old format
+                        state_metrics=state_str,  # Use state as metrics
+                        reasoning=r.get("reasoning", ""),
+                        plan=r.get("plan", ""),
+                        persona=r.get("persona", "firm_professional"),
+                    )
+                )
         self.bulk_load(entries)
-
