@@ -17,9 +17,9 @@ class MemoryConfig(BaseModel):
 
 
 class AgentConfig(BaseModel):
-    backend: str = "hf"  # options: heuristic, hf, openai
+    backend: str = "together"  # options: heuristic, hf, openai, together
     use_llm: bool = False  # legacy flag; kept for backward compatibility
-    model: str = "gpt2"  # default lightweight HF model
+    model: str = "Qwen/Qwen2.5-7B-Instruct-Turbo"  # default Together.ai model
     max_tokens: int = 256
     temperature: float = 0.4
 
@@ -27,6 +27,8 @@ class AgentConfig(BaseModel):
 class LoopConfig(BaseModel):
     max_messages: int = 50
     audit_every: int = 1
+    log_path: str | None = None
+    state_path: str | None = None  # Path to save/load user state
 
 
 class AppConfig(BaseModel):

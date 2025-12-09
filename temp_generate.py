@@ -1,15 +1,10 @@
-from __future__ import annotations
-
-import argparse
 import json
 import random
 from pathlib import Path
 
 PERSONAS = {
     "lenient_supportive": {
-        "tone": "friendly, supportive, minimal intervention unless abusive",
         "examples": [
-            # Positive/Supportive
             ("yo stream was fire last night!!", {"strikes": 0}),
             ("this is the best clutch i've seen all week", {"strikes": 0}),
             ("nice clutch, deserved that dub", {"strikes": 0}),
@@ -25,37 +20,30 @@ PERSONAS = {
             ("your content always makes my day", {"strikes": 0}),
             ("can't wait for the next stream", {"strikes": 0}),
             ("this is why i watch you", {"strikes": 0}),
-            # Questions/Helpful
             ("can i drop a link to my montage?", {"strikes": 0}),
             ("hey could you explain that strat again?", {"strikes": 0}),
             ("what settings do you use?", {"strikes": 0}),
             ("can we get a timeout on that spammer pls", {"strikes": 0}),
             ("when's the next tournament?", {"strikes": 0}),
-            # Apologies
             ("sorry if that was rude earlier, just hyped", {"strikes": 1}),
             ("sorry mods, didnt know link posting was banned", {"strikes": 1}),
             ("sorry for spamming earlier, won't happen again", {"strikes": 1}),
             ("my bad, didn't mean to be toxic", {"strikes": 1}),
             ("apologies for the earlier comment", {"strikes": 1}),
-            # Mild criticism (tolerated)
             ("stop talking and play dude boring", {"strikes": 1}),
             ("audio desync again, please fix", {"strikes": 0}),
             ("your mic is clipping bro, hurts my ears", {"strikes": 0}),
             ("mic too quiet, can you bump gain?", {"strikes": 0}),
             ("lagging a bit today?", {"strikes": 0}),
-            # Banter (allowed)
             ("bro said chat can't behave LUL", {"strikes": 0}),
             ("chat going wild tonight", {"strikes": 0}),
             ("yall are crazy in here", {"strikes": 0}),
-            # Mild spam (warned)
             ("linking my discord for team finders: https://discord.gg/abc", {"strikes": 0}),
             ("check out my channel too", {"strikes": 0}),
         ],
     },
     "firm_professional": {
-        "tone": "strict on abuse/spam, professional language",
         "examples": [
-            # Severe abuse (ban)
             ("go kys lol", {"strikes": 2}),
             ("unban me coward, free speech!!", {"strikes": 3}),
             ("bro ur gameplay is trash uninstall", {"strikes": 2}),
@@ -71,7 +59,6 @@ PERSONAS = {
             ("ban me idc this chat is toxic", {"strikes": 2}),
             ("you're so bad at this game", {"strikes": 2}),
             ("worst plays i've ever seen", {"strikes": 2}),
-            # Spam (timeout/ban)
             ("follow me for free coins!!! http://spam.link", {"strikes": 1}),
             ("free followers at http://getfollows.biz", {"strikes": 2}),
             ("type !freecoins to win $$$", {"strikes": 2}),
@@ -82,7 +69,6 @@ PERSONAS = {
             ("promo code: SCAM2024", {"strikes": 1}),
             ("subscribe to my onlyfans", {"strikes": 2}),
             ("buy followers cheap, dm", {"strikes": 2}),
-            # Mod criticism (warned)
             ("why are mods sleeping this chat is wilding", {"strikes": 1}),
             ("mod u even on? this spam is crazy", {"strikes": 1}),
             ("mods asleep, bots posting links nonstop", {"strikes": 1}),
@@ -91,36 +77,29 @@ PERSONAS = {
             ("mods are useless here", {"strikes": 1}),
             ("why did you timeout me i just asked a question", {"strikes": 1}),
             ("mods on a power trip tonight", {"strikes": 1}),
-            # Demands (warned)
             ("do a giveaway or i'm leaving", {"strikes": 1}),
             ("play my game request or i unsub", {"strikes": 1}),
             ("read my donation or i'm gone", {"strikes": 1}),
             ("answer my question now", {"strikes": 1}),
-            # Bypass attempts (timeout)
             ("bad word filter sucks i'll bypass it lmao", {"strikes": 2}),
             ("f*ck your rules", {"strikes": 2}),
             ("sh1t mods can't catch me", {"strikes": 2}),
             ("l3ts s33 if th3y c4n r34d th1s", {"strikes": 2}),
-            # Troll behavior
             ("you all are sheep following this streamer", {"strikes": 2}),
             ("this community is a cult", {"strikes": 2}),
             ("yall are simps", {"strikes": 1}),
             ("chat full of bots", {"strikes": 1}),
-            # Political/controversial (warned)
             ("keep politics out of chat", {"strikes": 0}),
             ("why are you talking about that topic", {"strikes": 1}),
         ],
     },
     "nuanced_patient": {
-        "tone": "patient, context-aware, prefers gentle nudges first",
         "examples": [
-            # Context-aware leniency
             ("that's sus but maybe they meant it as a joke?", {"strikes": 0}),
             ("yall sensitive, that wasn't even toxic", {"strikes": 0}),
             ("seems harsh but i get why", {"strikes": 0}),
             ("could be sarcasm, hard to tell", {"strikes": 0}),
             ("maybe they're having a bad day", {"strikes": 0}),
-            # Helpful feedback
             ("your mic is clipping bro, hurts my ears", {"strikes": 0}),
             ("audio desync again, please fix", {"strikes": 0}),
             ("mic too quiet, can you bump gain?", {"strikes": 0}),
@@ -128,33 +107,27 @@ PERSONAS = {
             ("fps drops during fights", {"strikes": 0}),
             ("can you turn down game volume?", {"strikes": 0}),
             ("overlay covering important info", {"strikes": 0}),
-            # Questions
             ("hey could you explain that strat again?", {"strikes": 0}),
             ("what build are you running?", {"strikes": 0}),
             ("can we discuss that play?", {"strikes": 0}),
             ("why did you do that?", {"strikes": 0}),
             ("can you show your settings?", {"strikes": 0}),
-            # Community management
             ("can we get a timeout on that spammer pls", {"strikes": 0}),
             ("please ban that slur user", {"strikes": 0}),
             ("can we keep politics out of chat?", {"strikes": 0}),
             ("maybe warn them first?", {"strikes": 0}),
             ("that user seems new, give them a chance", {"strikes": 0}),
-            # Apologies/understanding
             ("sorry, didn't realize that was against rules", {"strikes": 1}),
             ("my bad, i'll be more careful", {"strikes": 1}),
             ("didn't mean to offend anyone", {"strikes": 1}),
             ("i understand why that was removed", {"strikes": 1}),
-            # Edge cases
             ("linking my discord for team finders: https://discord.gg/abc", {"strikes": 0}),
             ("can i share my montage link?", {"strikes": 0}),
             ("is self-promo allowed here?", {"strikes": 0}),
             ("what's the rule on links?", {"strikes": 0}),
-            # Constructive criticism
             ("maybe try a different approach next time", {"strikes": 0}),
             ("that strategy didn't work, but good try", {"strikes": 0}),
             ("consider adjusting your sensitivity", {"strikes": 0}),
-            # Supportive but questioning
             ("love the stream but chat is wild tonight", {"strikes": 0}),
             ("great content, maybe slow down a bit", {"strikes": 0}),
             ("enjoying this but audio needs work", {"strikes": 0}),
@@ -162,37 +135,23 @@ PERSONAS = {
     },
 }
 
+out = []
+users = 0
+for _ in range(400):
+    persona = random.choice(list(PERSONAS.keys()))
+    template = random.choice(PERSONAS[persona]["examples"])
+    comment, meta = template
+    users += 1
+    sample = {
+        "comment": comment,
+        "meta": {"user": f"user_{users:03d}", "account_age_days": random.randint(10, 900), **meta},
+        "persona": persona,
+    }
+    out.append(sample)
 
-def synthesize(num: int) -> list[dict]:
-    out = []
-    users = 0
-    for _ in range(num):
-        persona = random.choice(list(PERSONAS.keys()))
-        template = random.choice(PERSONAS[persona]["examples"])
-        comment, meta = template
-        users += 1
-        sample = {
-            "comment": comment,
-            "meta": {"user": f"user_{users:03d}", "account_age_days": random.randint(10, 900), **meta},
-            "persona": persona,
-        }
-        out.append(sample)
-    return out
-
-
-def main():
-    parser = argparse.ArgumentParser(description="Generate synthetic Twitch-like comments.")
-    parser.add_argument("--output", type=Path, default=Path("data/synthetic_comments.json"))
-    parser.add_argument("--num", type=int, default=50)
-    args = parser.parse_args()
-
-    args.output.parent.mkdir(parents=True, exist_ok=True)
-    data = synthesize(args.num)
-    with args.output.open("w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
-    print(f"Wrote {len(data)} samples to {args.output}")
-
-
-if __name__ == "__main__":
-    main()
+output_path = Path("data/synthetic_comments.json")
+output_path.parent.mkdir(parents=True, exist_ok=True)
+with output_path.open("w", encoding="utf-8") as f:
+    json.dump(out, f, indent=2)
+print(f"Wrote {len(out)} samples to {output_path}")
 

@@ -10,21 +10,22 @@ memory:
   embed_model: "sentence-transformers/all-MiniLM-L6-v2"
 
 student:
-  backend: "hf"          # heuristic | hf | openai
-  model: "gpt2"          # small HF model for offline/local tests
+  backend: "together"    # heuristic | hf | openai | together
+  model: "Qwen/Qwen2.5-7B-Instruct-Turbo"  # Together.ai model (32768 context window)
   use_llm: false         # legacy flag; ignored when backend is set
-  max_tokens: 128
+  max_tokens: 256
   temperature: 0.4
 
 expert:
-  backend: "hf"          # heuristic | hf | openai
-  model: "gpt2"          # you can swap to a larger HF model locally
+  backend: "together"    # heuristic | hf | openai | together
+  model: "meta-llama/Llama-3.3-70B-Instruct-Turbo"  # Together.ai model (131072 context window)
   use_llm: false
-  max_tokens: 256
+  max_tokens: 512
   temperature: 0.2
 
 loop:
   max_messages: 50
   audit_every: 1
   log_path: "logs/run_log.jsonl"
+  state_path: "data/user_state.json"  # Path to save/load user state (ban counts, etc.)
 

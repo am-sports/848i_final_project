@@ -10,4 +10,5 @@ python-dotenv>=1.0.1
 transformers>=4.38.0
 torch>=2.1.0
 sentence-transformers>=2.5.1
+matplotlib>=3.7.0
 

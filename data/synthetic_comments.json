@@ -1,45 +1,3602 @@
 [
-  {"comment": "yo stream was fire last night!!", "meta": {"user": "fan_001", "account_age_days": 400, "strikes": 0}, "persona": "lenient_supportive"},
-  {"comment": "mod u even on? this spam is crazy", "meta": {"user": "critic_902", "account_age_days": 120, "strikes": 1}, "persona": "firm_professional"},
-  {"comment": "LMAO you all suck get gud", "meta": {"user": "troll_777", "account_age_days": 30, "strikes": 2}, "persona": "firm_professional"},
-  {"comment": "that's sus but maybe they meant it as a joke?", "meta": {"user": "nuance_123", "account_age_days": 240, "strikes": 0}, "persona": "nuanced_patient"},
-  {"comment": "follow me for free coins!!! http://spam.link", "meta": {"user": "spam_bot", "account_age_days": 5, "strikes": 1}, "persona": "firm_professional"},
-  {"comment": "sorry if that was rude earlier, just hyped", "meta": {"user": "apology_044", "account_age_days": 90, "strikes": 1}, "persona": "lenient_supportive"},
-  {"comment": "your mic is clipping bro, hurts my ears", "meta": {"user": "helpful_guy", "account_age_days": 800, "strikes": 0}, "persona": "nuanced_patient"},
-  {"comment": "go kys lol", "meta": {"user": "abusive_666", "account_age_days": 50, "strikes": 3}, "persona": "firm_professional"},
-  {"comment": "can i drop a link to my montage?", "meta": {"user": "collab_fan", "account_age_days": 300, "strikes": 0}, "persona": "lenient_supportive"},
-  {"comment": "why are mods sleeping this chat is wilding", "meta": {"user": "impatient_012", "account_age_days": 45, "strikes": 1}, "persona": "firm_professional"},
-  {"comment": "this is the best clutch i've seen all week", "meta": {"user": "fan_002", "account_age_days": 520, "strikes": 0}, "persona": "lenient_supportive"},
-  {"comment": "audio desync again, please fix", "meta": {"user": "helpful_002", "account_age_days": 260, "strikes": 0}, "persona": "nuanced_patient"},
-  {"comment": "stop talking and play dude boring", "meta": {"user": "impatient_013", "account_age_days": 70, "strikes": 1}, "persona": "firm_professional"},
-  {"comment": "free followers at http://getfollows.biz", "meta": {"user": "spam_002", "account_age_days": 15, "strikes": 2}, "persona": "firm_professional"},
-  {"comment": "you banned my friend for nothing, power trip", "meta": {"user": "critic_903", "account_age_days": 180, "strikes": 1}, "persona": "firm_professional"},
-  {"comment": "ggs everyone, fun lobby", "meta": {"user": "fan_003", "account_age_days": 640, "strikes": 0}, "persona": "lenient_supportive"},
-  {"comment": "this chat toxic af", "meta": {"user": "critic_904", "account_age_days": 200, "strikes": 1}, "persona": "firm_professional"},
-  {"comment": "bro ur gameplay is trash uninstall", "meta": {"user": "troll_778", "account_age_days": 25, "strikes": 2}, "persona": "firm_professional"},
-  {"comment": "hey could you explain that strat again?", "meta": {"user": "learner_001", "account_age_days": 310, "strikes": 0}, "persona": "nuanced_patient"},
-  {"comment": "sorry mods, didnt know link posting was banned", "meta": {"user": "apology_045", "account_age_days": 110, "strikes": 1}, "persona": "lenient_supportive"},
-  {"comment": "you all are sheep following this streamer", "meta": {"user": "troll_779", "account_age_days": 40, "strikes": 2}, "persona": "firm_professional"},
-  {"comment": "can we get a timeout on that spammer pls", "meta": {"user": "helper_010", "account_age_days": 420, "strikes": 0}, "persona": "nuanced_patient"},
-  {"comment": "nice clutch, deserved that dub", "meta": {"user": "fan_004", "account_age_days": 350, "strikes": 0}, "persona": "lenient_supportive"},
-  {"comment": "mods asleep, bots posting links nonstop", "meta": {"user": "critic_905", "account_age_days": 95, "strikes": 1}, "persona": "firm_professional"},
-  {"comment": "bro said chat can't behave LUL", "meta": {"user": "banter_001", "account_age_days": 280, "strikes": 0}, "persona": "lenient_supportive"},
-  {"comment": "yall sensitive, that wasn't even toxic", "meta": {"user": "debate_001", "account_age_days": 330, "strikes": 0}, "persona": "nuanced_patient"},
-  {"comment": "type !freecoins to win $$$", "meta": {"user": "spam_003", "account_age_days": 8, "strikes": 2}, "persona": "firm_professional"},
-  {"comment": "unban me coward, free speech!!", "meta": {"user": "troll_780", "account_age_days": 20, "strikes": 3}, "persona": "firm_professional"},
-  {"comment": "love the vibe tonight", "meta": {"user": "fan_005", "account_age_days": 500, "strikes": 0}, "persona": "lenient_supportive"},
-  {"comment": "why did you timeout me i just asked a question", "meta": {"user": "critic_906", "account_age_days": 130, "strikes": 1}, "persona": "nuanced_patient"},
-  {"comment": "do a giveaway or i'm leaving", "meta": {"user": "demand_001", "account_age_days": 60, "strikes": 1}, "persona": "firm_professional"},
-  {"comment": "ratio + didn't ask + cry more", "meta": {"user": "troll_781", "account_age_days": 35, "strikes": 2}, "persona": "firm_professional"},
-  {"comment": "sorry for spamming earlier, won’t happen again", "meta": {"user": "apology_046", "account_age_days": 85, "strikes": 1}, "persona": "lenient_supportive"},
-  {"comment": "linking my discord for team finders: https://discord.gg/abc", "meta": {"user": "collab_002", "account_age_days": 410, "strikes": 0}, "persona": "nuanced_patient"},
-  {"comment": "bad word filter sucks i'll bypass it lmao", "meta": {"user": "troll_782", "account_age_days": 18, "strikes": 2}, "persona": "firm_professional"},
-  {"comment": "please ban that slur user", "meta": {"user": "helper_011", "account_age_days": 720, "strikes": 0}, "persona": "nuanced_patient"},
-  {"comment": "this game is trash you're trash chat is trash", "meta": {"user": "troll_783", "account_age_days": 55, "strikes": 2}, "persona": "firm_professional"},
-  {"comment": "mic too quiet, can you bump gain?", "meta": {"user": "helpful_003", "account_age_days": 210, "strikes": 0}, "persona": "nuanced_patient"},
-  {"comment": "poggers play, so clean", "meta": {"user": "fan_006", "account_age_days": 610, "strikes": 0}, "persona": "lenient_supportive"},
-  {"comment": "follow my insta for giveaways @fakeprize", "meta": {"user": "spam_004", "account_age_days": 12, "strikes": 2}, "persona": "firm_professional"},
-  {"comment": "ur mods are power hungry clowns", "meta": {"user": "critic_907", "account_age_days": 140, "strikes": 1}, "persona": "firm_professional"},
-  {"comment": "can we keep politics out of chat?", "meta": {"user": "helper_012", "account_age_days": 480, "strikes": 0}, "persona": "nuanced_patient"}
+  {
+    "comment": "can we keep politics out of chat?",
+    "meta": {
+      "user": "user_001",
+      "account_age_days": 531,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "click here for free vbucks: bit.ly/scam",
+    "meta": {
+      "user": "user_002",
+      "account_age_days": 662,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "yall are crazy in here",
+    "meta": {
+      "user": "user_003",
+      "account_age_days": 311,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "best streamer on twitch fr",
+    "meta": {
+      "user": "user_004",
+      "account_age_days": 865,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "stop talking and play dude boring",
+    "meta": {
+      "user": "user_005",
+      "account_age_days": 103,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "can we keep politics out of chat?",
+    "meta": {
+      "user": "user_006",
+      "account_age_days": 525,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "you're so bad at this game",
+    "meta": {
+      "user": "user_007",
+      "account_age_days": 340,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "follow my insta for giveaways @fakeprize",
+    "meta": {
+      "user": "user_008",
+      "account_age_days": 749,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "this community is a cult",
+    "meta": {
+      "user": "user_009",
+      "account_age_days": 47,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "keep up the great content",
+    "meta": {
+      "user": "user_010",
+      "account_age_days": 761,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "when's the next tournament?",
+    "meta": {
+      "user": "user_011",
+      "account_age_days": 26,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "enjoying this but audio needs work",
+    "meta": {
+      "user": "user_012",
+      "account_age_days": 523,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "linking my discord for team finders: https://discord.gg/abc",
+    "meta": {
+      "user": "user_013",
+      "account_age_days": 173,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "lagging a bit today?",
+    "meta": {
+      "user": "user_014",
+      "account_age_days": 259,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "do a giveaway or i'm leaving",
+    "meta": {
+      "user": "user_015",
+      "account_age_days": 814,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "subscribe to my onlyfans",
+    "meta": {
+      "user": "user_016",
+      "account_age_days": 862,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "ur mods are power hungry clowns",
+    "meta": {
+      "user": "user_017",
+      "account_age_days": 242,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "subscribe to my onlyfans",
+    "meta": {
+      "user": "user_018",
+      "account_age_days": 744,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "overlay covering important info",
+    "meta": {
+      "user": "user_019",
+      "account_age_days": 553,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we keep politics out of chat?",
+    "meta": {
+      "user": "user_020",
+      "account_age_days": 171,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "love the vibe tonight",
+    "meta": {
+      "user": "user_021",
+      "account_age_days": 584,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "this is the best clutch i've seen all week",
+    "meta": {
+      "user": "user_022",
+      "account_age_days": 612,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "answer my question now",
+    "meta": {
+      "user": "user_023",
+      "account_age_days": 220,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "why did you timeout me i just asked a question",
+    "meta": {
+      "user": "user_024",
+      "account_age_days": 620,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "what settings do you use?",
+    "meta": {
+      "user": "user_025",
+      "account_age_days": 171,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "your mic is clipping bro, hurts my ears",
+    "meta": {
+      "user": "user_026",
+      "account_age_days": 537,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "i understand why that was removed",
+    "meta": {
+      "user": "user_027",
+      "account_age_days": 613,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "chat going wild tonight",
+    "meta": {
+      "user": "user_028",
+      "account_age_days": 198,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "what's the rule on links?",
+    "meta": {
+      "user": "user_029",
+      "account_age_days": 351,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "ban me idc this chat is toxic",
+    "meta": {
+      "user": "user_030",
+      "account_age_days": 201,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "that user seems new, give them a chance",
+    "meta": {
+      "user": "user_031",
+      "account_age_days": 588,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can you show your settings?",
+    "meta": {
+      "user": "user_032",
+      "account_age_days": 336,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "that was insane, well played",
+    "meta": {
+      "user": "user_033",
+      "account_age_days": 246,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "what build are you running?",
+    "meta": {
+      "user": "user_034",
+      "account_age_days": 142,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "this is the best clutch i've seen all week",
+    "meta": {
+      "user": "user_035",
+      "account_age_days": 528,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "what settings do you use?",
+    "meta": {
+      "user": "user_036",
+      "account_age_days": 352,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "great content, maybe slow down a bit",
+    "meta": {
+      "user": "user_037",
+      "account_age_days": 756,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "your mic is clipping bro, hurts my ears",
+    "meta": {
+      "user": "user_038",
+      "account_age_days": 200,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "check out my channel too",
+    "meta": {
+      "user": "user_039",
+      "account_age_days": 672,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "please ban that slur user",
+    "meta": {
+      "user": "user_040",
+      "account_age_days": 136,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "this chat toxic af",
+    "meta": {
+      "user": "user_041",
+      "account_age_days": 23,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "subbed for a year, worth every penny",
+    "meta": {
+      "user": "user_042",
+      "account_age_days": 201,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "keep up the great content",
+    "meta": {
+      "user": "user_043",
+      "account_age_days": 678,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "you're a fraud and a scammer",
+    "meta": {
+      "user": "user_044",
+      "account_age_days": 523,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "love the stream but chat is wild tonight",
+    "meta": {
+      "user": "user_045",
+      "account_age_days": 572,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "what settings do you use?",
+    "meta": {
+      "user": "user_046",
+      "account_age_days": 418,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "that user seems new, give them a chance",
+    "meta": {
+      "user": "user_047",
+      "account_age_days": 281,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "hey could you explain that strat again?",
+    "meta": {
+      "user": "user_048",
+      "account_age_days": 36,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "unban me coward, free speech!!",
+    "meta": {
+      "user": "user_049",
+      "account_age_days": 752,
+      "strikes": 3
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "yall sensitive, that wasn't even toxic",
+    "meta": {
+      "user": "user_050",
+      "account_age_days": 454,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "didn't mean to offend anyone",
+    "meta": {
+      "user": "user_051",
+      "account_age_days": 47,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "didn't mean to offend anyone",
+    "meta": {
+      "user": "user_052",
+      "account_age_days": 248,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "apologies for the earlier comment",
+    "meta": {
+      "user": "user_053",
+      "account_age_days": 757,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "subscribe to my onlyfans",
+    "meta": {
+      "user": "user_054",
+      "account_age_days": 486,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can we get a timeout on that spammer pls",
+    "meta": {
+      "user": "user_055",
+      "account_age_days": 489,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we keep politics out of chat?",
+    "meta": {
+      "user": "user_056",
+      "account_age_days": 233,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "didn't mean to offend anyone",
+    "meta": {
+      "user": "user_057",
+      "account_age_days": 581,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "check out my channel too",
+    "meta": {
+      "user": "user_058",
+      "account_age_days": 817,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "didn't mean to offend anyone",
+    "meta": {
+      "user": "user_059",
+      "account_age_days": 410,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "sorry mods, didnt know link posting was banned",
+    "meta": {
+      "user": "user_060",
+      "account_age_days": 583,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "apologies for the earlier comment",
+    "meta": {
+      "user": "user_061",
+      "account_age_days": 622,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "your mic is clipping bro, hurts my ears",
+    "meta": {
+      "user": "user_062",
+      "account_age_days": 743,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "my bad, i'll be more careful",
+    "meta": {
+      "user": "user_063",
+      "account_age_days": 369,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "why are you talking about that topic",
+    "meta": {
+      "user": "user_064",
+      "account_age_days": 205,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "answer my question now",
+    "meta": {
+      "user": "user_065",
+      "account_age_days": 606,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "best streamer on twitch fr",
+    "meta": {
+      "user": "user_066",
+      "account_age_days": 840,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "best streamer on twitch fr",
+    "meta": {
+      "user": "user_067",
+      "account_age_days": 377,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "worst streamer ever, kys",
+    "meta": {
+      "user": "user_068",
+      "account_age_days": 733,
+      "strikes": 3
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "love the stream but chat is wild tonight",
+    "meta": {
+      "user": "user_069",
+      "account_age_days": 154,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "your mic is clipping bro, hurts my ears",
+    "meta": {
+      "user": "user_070",
+      "account_age_days": 18,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "buy followers cheap, dm",
+    "meta": {
+      "user": "user_071",
+      "account_age_days": 518,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "buy followers cheap, dm",
+    "meta": {
+      "user": "user_072",
+      "account_age_days": 673,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "mods asleep, bots posting links nonstop",
+    "meta": {
+      "user": "user_073",
+      "account_age_days": 563,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "stop talking and play dude boring",
+    "meta": {
+      "user": "user_074",
+      "account_age_days": 667,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "maybe warn them first?",
+    "meta": {
+      "user": "user_075",
+      "account_age_days": 620,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we keep politics out of chat?",
+    "meta": {
+      "user": "user_076",
+      "account_age_days": 634,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "please ban that slur user",
+    "meta": {
+      "user": "user_077",
+      "account_age_days": 825,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "apologies for the earlier comment",
+    "meta": {
+      "user": "user_078",
+      "account_age_days": 791,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "enjoying this but audio needs work",
+    "meta": {
+      "user": "user_079",
+      "account_age_days": 605,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "yo stream was fire last night!!",
+    "meta": {
+      "user": "user_080",
+      "account_age_days": 316,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "could be sarcasm, hard to tell",
+    "meta": {
+      "user": "user_081",
+      "account_age_days": 322,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "worst streamer ever, kys",
+    "meta": {
+      "user": "user_082",
+      "account_age_days": 744,
+      "strikes": 3
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "love the stream but chat is wild tonight",
+    "meta": {
+      "user": "user_083",
+      "account_age_days": 890,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can you show your settings?",
+    "meta": {
+      "user": "user_084",
+      "account_age_days": 583,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "you're a fraud and a scammer",
+    "meta": {
+      "user": "user_085",
+      "account_age_days": 704,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "l3ts s33 if th3y c4n r34d th1s",
+    "meta": {
+      "user": "user_086",
+      "account_age_days": 175,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "maybe warn them first?",
+    "meta": {
+      "user": "user_087",
+      "account_age_days": 289,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "your mic is clipping bro, hurts my ears",
+    "meta": {
+      "user": "user_088",
+      "account_age_days": 577,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "when's the next tournament?",
+    "meta": {
+      "user": "user_089",
+      "account_age_days": 515,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "this chat toxic af",
+    "meta": {
+      "user": "user_090",
+      "account_age_days": 391,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can i drop a link to my montage?",
+    "meta": {
+      "user": "user_091",
+      "account_age_days": 287,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "my bad, i'll be more careful",
+    "meta": {
+      "user": "user_092",
+      "account_age_days": 56,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "bro ur gameplay is trash uninstall",
+    "meta": {
+      "user": "user_093",
+      "account_age_days": 535,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "hey could you explain that strat again?",
+    "meta": {
+      "user": "user_094",
+      "account_age_days": 339,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "consider adjusting your sensitivity",
+    "meta": {
+      "user": "user_095",
+      "account_age_days": 49,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "apologies for the earlier comment",
+    "meta": {
+      "user": "user_096",
+      "account_age_days": 54,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "apologies for the earlier comment",
+    "meta": {
+      "user": "user_097",
+      "account_age_days": 549,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "overlay covering important info",
+    "meta": {
+      "user": "user_098",
+      "account_age_days": 329,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we get a timeout on that spammer pls",
+    "meta": {
+      "user": "user_099",
+      "account_age_days": 243,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "when's the next tournament?",
+    "meta": {
+      "user": "user_100",
+      "account_age_days": 571,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "you all suck get gud",
+    "meta": {
+      "user": "user_101",
+      "account_age_days": 268,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "why are you talking about that topic",
+    "meta": {
+      "user": "user_102",
+      "account_age_days": 299,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "bro ur gameplay is trash uninstall",
+    "meta": {
+      "user": "user_103",
+      "account_age_days": 857,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "your content always makes my day",
+    "meta": {
+      "user": "user_104",
+      "account_age_days": 825,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "maybe they're having a bad day",
+    "meta": {
+      "user": "user_105",
+      "account_age_days": 684,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "l3ts s33 if th3y c4n r34d th1s",
+    "meta": {
+      "user": "user_106",
+      "account_age_days": 431,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "you banned my friend for nothing, power trip",
+    "meta": {
+      "user": "user_107",
+      "account_age_days": 763,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "chat full of bots",
+    "meta": {
+      "user": "user_108",
+      "account_age_days": 177,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "buy followers cheap, dm",
+    "meta": {
+      "user": "user_109",
+      "account_age_days": 220,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "love the stream but chat is wild tonight",
+    "meta": {
+      "user": "user_110",
+      "account_age_days": 374,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "you banned my friend for nothing, power trip",
+    "meta": {
+      "user": "user_111",
+      "account_age_days": 388,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "poggers play, so clean",
+    "meta": {
+      "user": "user_112",
+      "account_age_days": 111,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "can i share my montage link?",
+    "meta": {
+      "user": "user_113",
+      "account_age_days": 719,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "my bad, didn't mean to be toxic",
+    "meta": {
+      "user": "user_114",
+      "account_age_days": 338,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "can we discuss that play?",
+    "meta": {
+      "user": "user_115",
+      "account_age_days": 517,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "sorry for spamming earlier, won't happen again",
+    "meta": {
+      "user": "user_116",
+      "account_age_days": 94,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "sorry if that was rude earlier, just hyped",
+    "meta": {
+      "user": "user_117",
+      "account_age_days": 501,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "type !freecoins to win $$$",
+    "meta": {
+      "user": "user_118",
+      "account_age_days": 274,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "ratio + didn't ask + cry more",
+    "meta": {
+      "user": "user_119",
+      "account_age_days": 540,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "my bad, i'll be more careful",
+    "meta": {
+      "user": "user_120",
+      "account_age_days": 715,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "ur mods are power hungry clowns",
+    "meta": {
+      "user": "user_121",
+      "account_age_days": 890,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "lagging a bit today?",
+    "meta": {
+      "user": "user_122",
+      "account_age_days": 43,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "bro ur gameplay is trash uninstall",
+    "meta": {
+      "user": "user_123",
+      "account_age_days": 153,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can i drop a link to my montage?",
+    "meta": {
+      "user": "user_124",
+      "account_age_days": 374,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "ur mods are power hungry clowns",
+    "meta": {
+      "user": "user_125",
+      "account_age_days": 134,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "answer my question now",
+    "meta": {
+      "user": "user_126",
+      "account_age_days": 162,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "you're washed up, retire already",
+    "meta": {
+      "user": "user_127",
+      "account_age_days": 164,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "my bad, didn't mean to be toxic",
+    "meta": {
+      "user": "user_128",
+      "account_age_days": 498,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "i understand why that was removed",
+    "meta": {
+      "user": "user_129",
+      "account_age_days": 47,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "hey could you explain that strat again?",
+    "meta": {
+      "user": "user_130",
+      "account_age_days": 812,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "promo code: SCAM2024",
+    "meta": {
+      "user": "user_131",
+      "account_age_days": 543,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "please ban that slur user",
+    "meta": {
+      "user": "user_132",
+      "account_age_days": 442,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "that strategy didn't work, but good try",
+    "meta": {
+      "user": "user_133",
+      "account_age_days": 738,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we get a timeout on that spammer pls",
+    "meta": {
+      "user": "user_134",
+      "account_age_days": 558,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "is self-promo allowed here?",
+    "meta": {
+      "user": "user_135",
+      "account_age_days": 591,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "could be sarcasm, hard to tell",
+    "meta": {
+      "user": "user_136",
+      "account_age_days": 111,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "ggs everyone, fun lobby",
+    "meta": {
+      "user": "user_137",
+      "account_age_days": 887,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "do a giveaway or i'm leaving",
+    "meta": {
+      "user": "user_138",
+      "account_age_days": 674,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "you're carrying hard tonight",
+    "meta": {
+      "user": "user_139",
+      "account_age_days": 572,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "keep politics out of chat",
+    "meta": {
+      "user": "user_140",
+      "account_age_days": 280,
+      "strikes": 0
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "love the stream but chat is wild tonight",
+    "meta": {
+      "user": "user_141",
+      "account_age_days": 833,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "this chat toxic af",
+    "meta": {
+      "user": "user_142",
+      "account_age_days": 851,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "apologies for the earlier comment",
+    "meta": {
+      "user": "user_143",
+      "account_age_days": 535,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "amazing gameplay as always",
+    "meta": {
+      "user": "user_144",
+      "account_age_days": 124,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "this is the best clutch i've seen all week",
+    "meta": {
+      "user": "user_145",
+      "account_age_days": 585,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "can i share my montage link?",
+    "meta": {
+      "user": "user_146",
+      "account_age_days": 876,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "that was insane, well played",
+    "meta": {
+      "user": "user_147",
+      "account_age_days": 119,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "that's sus but maybe they meant it as a joke?",
+    "meta": {
+      "user": "user_148",
+      "account_age_days": 603,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "maybe warn them first?",
+    "meta": {
+      "user": "user_149",
+      "account_age_days": 428,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "ggs everyone, fun lobby",
+    "meta": {
+      "user": "user_150",
+      "account_age_days": 619,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "linking my discord for team finders: https://discord.gg/abc",
+    "meta": {
+      "user": "user_151",
+      "account_age_days": 621,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "follow my insta for giveaways @fakeprize",
+    "meta": {
+      "user": "user_152",
+      "account_age_days": 283,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "this is the best clutch i've seen all week",
+    "meta": {
+      "user": "user_153",
+      "account_age_days": 209,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "worst plays i've ever seen",
+    "meta": {
+      "user": "user_154",
+      "account_age_days": 679,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "ur mods are power hungry clowns",
+    "meta": {
+      "user": "user_155",
+      "account_age_days": 880,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "sorry if that was rude earlier, just hyped",
+    "meta": {
+      "user": "user_156",
+      "account_age_days": 541,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "keep politics out of chat",
+    "meta": {
+      "user": "user_157",
+      "account_age_days": 518,
+      "strikes": 0
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "mic too quiet, can you bump gain?",
+    "meta": {
+      "user": "user_158",
+      "account_age_days": 320,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "bro ur gameplay is trash uninstall",
+    "meta": {
+      "user": "user_159",
+      "account_age_days": 213,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "maybe try a different approach next time",
+    "meta": {
+      "user": "user_160",
+      "account_age_days": 333,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "you banned my friend for nothing, power trip",
+    "meta": {
+      "user": "user_161",
+      "account_age_days": 330,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "mic too quiet, can you bump gain?",
+    "meta": {
+      "user": "user_162",
+      "account_age_days": 232,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "keep politics out of chat",
+    "meta": {
+      "user": "user_163",
+      "account_age_days": 371,
+      "strikes": 0
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "mic too quiet, can you bump gain?",
+    "meta": {
+      "user": "user_164",
+      "account_age_days": 135,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "lagging a bit today?",
+    "meta": {
+      "user": "user_165",
+      "account_age_days": 555,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "mic too quiet, can you bump gain?",
+    "meta": {
+      "user": "user_166",
+      "account_age_days": 366,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "overlay covering important info",
+    "meta": {
+      "user": "user_167",
+      "account_age_days": 257,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "worst streamer ever, kys",
+    "meta": {
+      "user": "user_168",
+      "account_age_days": 170,
+      "strikes": 3
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "subbed for a year, worth every penny",
+    "meta": {
+      "user": "user_169",
+      "account_age_days": 257,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "mic too quiet, can you bump gain?",
+    "meta": {
+      "user": "user_170",
+      "account_age_days": 140,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "ggs everyone, fun lobby",
+    "meta": {
+      "user": "user_171",
+      "account_age_days": 309,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "lagging a bit today?",
+    "meta": {
+      "user": "user_172",
+      "account_age_days": 799,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "mod u even on? this spam is crazy",
+    "meta": {
+      "user": "user_173",
+      "account_age_days": 196,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "what's the rule on links?",
+    "meta": {
+      "user": "user_174",
+      "account_age_days": 215,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "you all are sheep following this streamer",
+    "meta": {
+      "user": "user_175",
+      "account_age_days": 896,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "my bad, didn't mean to be toxic",
+    "meta": {
+      "user": "user_176",
+      "account_age_days": 856,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "read my donation or i'm gone",
+    "meta": {
+      "user": "user_177",
+      "account_age_days": 57,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "this is the best clutch i've seen all week",
+    "meta": {
+      "user": "user_178",
+      "account_age_days": 224,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "bad word filter sucks i'll bypass it lmao",
+    "meta": {
+      "user": "user_179",
+      "account_age_days": 441,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "hey could you explain that strat again?",
+    "meta": {
+      "user": "user_180",
+      "account_age_days": 559,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "read my donation or i'm gone",
+    "meta": {
+      "user": "user_181",
+      "account_age_days": 125,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "your content always makes my day",
+    "meta": {
+      "user": "user_182",
+      "account_age_days": 561,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "this stream is garbage",
+    "meta": {
+      "user": "user_183",
+      "account_age_days": 747,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "worst streamer ever, kys",
+    "meta": {
+      "user": "user_184",
+      "account_age_days": 255,
+      "strikes": 3
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can't wait for the next stream",
+    "meta": {
+      "user": "user_185",
+      "account_age_days": 528,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "mods asleep, bots posting links nonstop",
+    "meta": {
+      "user": "user_186",
+      "account_age_days": 851,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "play my game request or i unsub",
+    "meta": {
+      "user": "user_187",
+      "account_age_days": 539,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "ur mods are power hungry clowns",
+    "meta": {
+      "user": "user_188",
+      "account_age_days": 237,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can you show your settings?",
+    "meta": {
+      "user": "user_189",
+      "account_age_days": 678,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "why are mods sleeping this chat is wilding",
+    "meta": {
+      "user": "user_190",
+      "account_age_days": 52,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "maybe try a different approach next time",
+    "meta": {
+      "user": "user_191",
+      "account_age_days": 553,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "that strategy didn't work, but good try",
+    "meta": {
+      "user": "user_192",
+      "account_age_days": 718,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "audio desync again, please fix",
+    "meta": {
+      "user": "user_193",
+      "account_age_days": 710,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "worst streamer ever, kys",
+    "meta": {
+      "user": "user_194",
+      "account_age_days": 626,
+      "strikes": 3
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "didn't mean to offend anyone",
+    "meta": {
+      "user": "user_195",
+      "account_age_days": 646,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "hey could you explain that strat again?",
+    "meta": {
+      "user": "user_196",
+      "account_age_days": 476,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "promo code: SCAM2024",
+    "meta": {
+      "user": "user_197",
+      "account_age_days": 683,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "bro said chat can't behave LUL",
+    "meta": {
+      "user": "user_198",
+      "account_age_days": 753,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "that was insane, well played",
+    "meta": {
+      "user": "user_199",
+      "account_age_days": 842,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "consider adjusting your sensitivity",
+    "meta": {
+      "user": "user_200",
+      "account_age_days": 682,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "ggs everyone, fun lobby",
+    "meta": {
+      "user": "user_201",
+      "account_age_days": 667,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "l3ts s33 if th3y c4n r34d th1s",
+    "meta": {
+      "user": "user_202",
+      "account_age_days": 511,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "my bad, didn't mean to be toxic",
+    "meta": {
+      "user": "user_203",
+      "account_age_days": 207,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "your mic is clipping bro, hurts my ears",
+    "meta": {
+      "user": "user_204",
+      "account_age_days": 378,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "can you turn down game volume?",
+    "meta": {
+      "user": "user_205",
+      "account_age_days": 791,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "could be sarcasm, hard to tell",
+    "meta": {
+      "user": "user_206",
+      "account_age_days": 628,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "maybe try a different approach next time",
+    "meta": {
+      "user": "user_207",
+      "account_age_days": 443,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "why did you do that?",
+    "meta": {
+      "user": "user_208",
+      "account_age_days": 497,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "promo code: SCAM2024",
+    "meta": {
+      "user": "user_209",
+      "account_age_days": 597,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "love the stream but chat is wild tonight",
+    "meta": {
+      "user": "user_210",
+      "account_age_days": 838,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "lagging a bit today?",
+    "meta": {
+      "user": "user_211",
+      "account_age_days": 450,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "you're carrying hard tonight",
+    "meta": {
+      "user": "user_212",
+      "account_age_days": 265,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "linking my discord for team finders: https://discord.gg/abc",
+    "meta": {
+      "user": "user_213",
+      "account_age_days": 124,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "you're carrying hard tonight",
+    "meta": {
+      "user": "user_214",
+      "account_age_days": 817,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "maybe they're having a bad day",
+    "meta": {
+      "user": "user_215",
+      "account_age_days": 569,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we keep politics out of chat?",
+    "meta": {
+      "user": "user_216",
+      "account_age_days": 333,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "why are you talking about that topic",
+    "meta": {
+      "user": "user_217",
+      "account_age_days": 774,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "lagging a bit today?",
+    "meta": {
+      "user": "user_218",
+      "account_age_days": 24,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "unban me coward, free speech!!",
+    "meta": {
+      "user": "user_219",
+      "account_age_days": 60,
+      "strikes": 3
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can you show your settings?",
+    "meta": {
+      "user": "user_220",
+      "account_age_days": 551,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "maybe warn them first?",
+    "meta": {
+      "user": "user_221",
+      "account_age_days": 751,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "free followers at http://getfollows.biz",
+    "meta": {
+      "user": "user_222",
+      "account_age_days": 731,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can i drop a link to my montage?",
+    "meta": {
+      "user": "user_223",
+      "account_age_days": 828,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "that strategy didn't work, but good try",
+    "meta": {
+      "user": "user_224",
+      "account_age_days": 480,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "do a giveaway or i'm leaving",
+    "meta": {
+      "user": "user_225",
+      "account_age_days": 351,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "type !freecoins to win $$$",
+    "meta": {
+      "user": "user_226",
+      "account_age_days": 780,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "nobody likes you, quit streaming",
+    "meta": {
+      "user": "user_227",
+      "account_age_days": 67,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "yall are crazy in here",
+    "meta": {
+      "user": "user_228",
+      "account_age_days": 137,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "keep up the great content",
+    "meta": {
+      "user": "user_229",
+      "account_age_days": 712,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "stop talking and play dude boring",
+    "meta": {
+      "user": "user_230",
+      "account_age_days": 91,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "lagging a bit today?",
+    "meta": {
+      "user": "user_231",
+      "account_age_days": 476,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "amazing gameplay as always",
+    "meta": {
+      "user": "user_232",
+      "account_age_days": 664,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "could be sarcasm, hard to tell",
+    "meta": {
+      "user": "user_233",
+      "account_age_days": 311,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "what build are you running?",
+    "meta": {
+      "user": "user_234",
+      "account_age_days": 225,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "that was insane, well played",
+    "meta": {
+      "user": "user_235",
+      "account_age_days": 741,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "best streamer on twitch fr",
+    "meta": {
+      "user": "user_236",
+      "account_age_days": 530,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "amazing gameplay as always",
+    "meta": {
+      "user": "user_237",
+      "account_age_days": 261,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "that's sus but maybe they meant it as a joke?",
+    "meta": {
+      "user": "user_238",
+      "account_age_days": 96,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "seems harsh but i get why",
+    "meta": {
+      "user": "user_239",
+      "account_age_days": 98,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "this game is trash you're trash chat is trash",
+    "meta": {
+      "user": "user_240",
+      "account_age_days": 849,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "ratio + didn't ask + cry more",
+    "meta": {
+      "user": "user_241",
+      "account_age_days": 290,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "that user seems new, give them a chance",
+    "meta": {
+      "user": "user_242",
+      "account_age_days": 828,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "please ban that slur user",
+    "meta": {
+      "user": "user_243",
+      "account_age_days": 111,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we get a timeout on that spammer pls",
+    "meta": {
+      "user": "user_244",
+      "account_age_days": 128,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "f*ck your rules",
+    "meta": {
+      "user": "user_245",
+      "account_age_days": 468,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "play my game request or i unsub",
+    "meta": {
+      "user": "user_246",
+      "account_age_days": 497,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "when's the next tournament?",
+    "meta": {
+      "user": "user_247",
+      "account_age_days": 584,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "go kys lol",
+    "meta": {
+      "user": "user_248",
+      "account_age_days": 378,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "hey could you explain that strat again?",
+    "meta": {
+      "user": "user_249",
+      "account_age_days": 888,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "you're a fraud and a scammer",
+    "meta": {
+      "user": "user_250",
+      "account_age_days": 122,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "buy followers cheap, dm",
+    "meta": {
+      "user": "user_251",
+      "account_age_days": 33,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "why did you do that?",
+    "meta": {
+      "user": "user_252",
+      "account_age_days": 695,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "ggs everyone, fun lobby",
+    "meta": {
+      "user": "user_253",
+      "account_age_days": 310,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "you all are sheep following this streamer",
+    "meta": {
+      "user": "user_254",
+      "account_age_days": 498,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "that's sus but maybe they meant it as a joke?",
+    "meta": {
+      "user": "user_255",
+      "account_age_days": 440,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "nice clutch, deserved that dub",
+    "meta": {
+      "user": "user_256",
+      "account_age_days": 111,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "amazing gameplay as always",
+    "meta": {
+      "user": "user_257",
+      "account_age_days": 696,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "you banned my friend for nothing, power trip",
+    "meta": {
+      "user": "user_258",
+      "account_age_days": 775,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "seems harsh but i get why",
+    "meta": {
+      "user": "user_259",
+      "account_age_days": 883,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "linking my discord for team finders: https://discord.gg/abc",
+    "meta": {
+      "user": "user_260",
+      "account_age_days": 492,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "mic too quiet, can you bump gain?",
+    "meta": {
+      "user": "user_261",
+      "account_age_days": 378,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "unban me coward, free speech!!",
+    "meta": {
+      "user": "user_262",
+      "account_age_days": 774,
+      "strikes": 3
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "subscribe to my onlyfans",
+    "meta": {
+      "user": "user_263",
+      "account_age_days": 660,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "read my donation or i'm gone",
+    "meta": {
+      "user": "user_264",
+      "account_age_days": 711,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can you turn down game volume?",
+    "meta": {
+      "user": "user_265",
+      "account_age_days": 250,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "this chat toxic af",
+    "meta": {
+      "user": "user_266",
+      "account_age_days": 34,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "sorry for spamming earlier, won't happen again",
+    "meta": {
+      "user": "user_267",
+      "account_age_days": 794,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "keep politics out of chat",
+    "meta": {
+      "user": "user_268",
+      "account_age_days": 776,
+      "strikes": 0
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "do a giveaway or i'm leaving",
+    "meta": {
+      "user": "user_269",
+      "account_age_days": 502,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "apologies for the earlier comment",
+    "meta": {
+      "user": "user_270",
+      "account_age_days": 30,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "ggs everyone, fun lobby",
+    "meta": {
+      "user": "user_271",
+      "account_age_days": 159,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "that strategy didn't work, but good try",
+    "meta": {
+      "user": "user_272",
+      "account_age_days": 497,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "i understand why that was removed",
+    "meta": {
+      "user": "user_273",
+      "account_age_days": 97,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "subbed for a year, worth every penny",
+    "meta": {
+      "user": "user_274",
+      "account_age_days": 746,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "click here for free vbucks: bit.ly/scam",
+    "meta": {
+      "user": "user_275",
+      "account_age_days": 22,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "my bad, didn't mean to be toxic",
+    "meta": {
+      "user": "user_276",
+      "account_age_days": 413,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "amazing gameplay as always",
+    "meta": {
+      "user": "user_277",
+      "account_age_days": 626,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "poggers play, so clean",
+    "meta": {
+      "user": "user_278",
+      "account_age_days": 126,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "great content, maybe slow down a bit",
+    "meta": {
+      "user": "user_279",
+      "account_age_days": 487,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "this chat toxic af",
+    "meta": {
+      "user": "user_280",
+      "account_age_days": 719,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "sh1t mods can't catch me",
+    "meta": {
+      "user": "user_281",
+      "account_age_days": 559,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "could be sarcasm, hard to tell",
+    "meta": {
+      "user": "user_282",
+      "account_age_days": 709,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we discuss that play?",
+    "meta": {
+      "user": "user_283",
+      "account_age_days": 274,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "nobody likes you, quit streaming",
+    "meta": {
+      "user": "user_284",
+      "account_age_days": 532,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "you're so bad at this game",
+    "meta": {
+      "user": "user_285",
+      "account_age_days": 491,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "overlay covering important info",
+    "meta": {
+      "user": "user_286",
+      "account_age_days": 410,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we keep politics out of chat?",
+    "meta": {
+      "user": "user_287",
+      "account_age_days": 591,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "when's the next tournament?",
+    "meta": {
+      "user": "user_288",
+      "account_age_days": 598,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "your mic is clipping bro, hurts my ears",
+    "meta": {
+      "user": "user_289",
+      "account_age_days": 306,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "bro ur gameplay is trash uninstall",
+    "meta": {
+      "user": "user_290",
+      "account_age_days": 533,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "maybe warn them first?",
+    "meta": {
+      "user": "user_291",
+      "account_age_days": 384,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "ggs everyone, fun lobby",
+    "meta": {
+      "user": "user_292",
+      "account_age_days": 875,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "sh1t mods can't catch me",
+    "meta": {
+      "user": "user_293",
+      "account_age_days": 511,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "audio desync again, please fix",
+    "meta": {
+      "user": "user_294",
+      "account_age_days": 199,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "do a giveaway or i'm leaving",
+    "meta": {
+      "user": "user_295",
+      "account_age_days": 693,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "audio desync again, please fix",
+    "meta": {
+      "user": "user_296",
+      "account_age_days": 513,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "yo stream was fire last night!!",
+    "meta": {
+      "user": "user_297",
+      "account_age_days": 561,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "subscribe to my onlyfans",
+    "meta": {
+      "user": "user_298",
+      "account_age_days": 278,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "this stream is garbage",
+    "meta": {
+      "user": "user_299",
+      "account_age_days": 810,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "sorry mods, didnt know link posting was banned",
+    "meta": {
+      "user": "user_300",
+      "account_age_days": 846,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "chat full of bots",
+    "meta": {
+      "user": "user_301",
+      "account_age_days": 620,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "audio desync again, please fix",
+    "meta": {
+      "user": "user_302",
+      "account_age_days": 808,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can i drop a link to my montage?",
+    "meta": {
+      "user": "user_303",
+      "account_age_days": 402,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "read my donation or i'm gone",
+    "meta": {
+      "user": "user_304",
+      "account_age_days": 11,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "you banned my friend for nothing, power trip",
+    "meta": {
+      "user": "user_305",
+      "account_age_days": 15,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "your mic is clipping bro, hurts my ears",
+    "meta": {
+      "user": "user_306",
+      "account_age_days": 655,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "you all are sheep following this streamer",
+    "meta": {
+      "user": "user_307",
+      "account_age_days": 824,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "you all suck get gud",
+    "meta": {
+      "user": "user_308",
+      "account_age_days": 585,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "linking my discord for team finders: https://discord.gg/abc",
+    "meta": {
+      "user": "user_309",
+      "account_age_days": 246,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "fps drops during fights",
+    "meta": {
+      "user": "user_310",
+      "account_age_days": 649,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "bad word filter sucks i'll bypass it lmao",
+    "meta": {
+      "user": "user_311",
+      "account_age_days": 358,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "didn't mean to offend anyone",
+    "meta": {
+      "user": "user_312",
+      "account_age_days": 49,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "subbed for a year, worth every penny",
+    "meta": {
+      "user": "user_313",
+      "account_age_days": 270,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "you're washed up, retire already",
+    "meta": {
+      "user": "user_314",
+      "account_age_days": 377,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "sorry for spamming earlier, won't happen again",
+    "meta": {
+      "user": "user_315",
+      "account_age_days": 775,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "audio desync again, please fix",
+    "meta": {
+      "user": "user_316",
+      "account_age_days": 305,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "do a giveaway or i'm leaving",
+    "meta": {
+      "user": "user_317",
+      "account_age_days": 141,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "that was insane, well played",
+    "meta": {
+      "user": "user_318",
+      "account_age_days": 403,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "can i share my montage link?",
+    "meta": {
+      "user": "user_319",
+      "account_age_days": 316,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "you're a fraud and a scammer",
+    "meta": {
+      "user": "user_320",
+      "account_age_days": 783,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "my bad, i'll be more careful",
+    "meta": {
+      "user": "user_321",
+      "account_age_days": 97,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can i drop a link to my montage?",
+    "meta": {
+      "user": "user_322",
+      "account_age_days": 703,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "that user seems new, give them a chance",
+    "meta": {
+      "user": "user_323",
+      "account_age_days": 481,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "you're washed up, retire already",
+    "meta": {
+      "user": "user_324",
+      "account_age_days": 827,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "this stream is garbage",
+    "meta": {
+      "user": "user_325",
+      "account_age_days": 212,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "answer my question now",
+    "meta": {
+      "user": "user_326",
+      "account_age_days": 852,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "please ban that slur user",
+    "meta": {
+      "user": "user_327",
+      "account_age_days": 85,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "what's the rule on links?",
+    "meta": {
+      "user": "user_328",
+      "account_age_days": 802,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we get a timeout on that spammer pls",
+    "meta": {
+      "user": "user_329",
+      "account_age_days": 876,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "promo code: SCAM2024",
+    "meta": {
+      "user": "user_330",
+      "account_age_days": 710,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "free money hack, dm me",
+    "meta": {
+      "user": "user_331",
+      "account_age_days": 863,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can you turn down game volume?",
+    "meta": {
+      "user": "user_332",
+      "account_age_days": 339,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "mods are useless here",
+    "meta": {
+      "user": "user_333",
+      "account_age_days": 557,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "love the stream but chat is wild tonight",
+    "meta": {
+      "user": "user_334",
+      "account_age_days": 669,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "this game is trash you're trash chat is trash",
+    "meta": {
+      "user": "user_335",
+      "account_age_days": 328,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can i share my montage link?",
+    "meta": {
+      "user": "user_336",
+      "account_age_days": 325,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "this stream is garbage",
+    "meta": {
+      "user": "user_337",
+      "account_age_days": 250,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "sorry if that was rude earlier, just hyped",
+    "meta": {
+      "user": "user_338",
+      "account_age_days": 464,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "you banned my friend for nothing, power trip",
+    "meta": {
+      "user": "user_339",
+      "account_age_days": 214,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "my bad, didn't mean to be toxic",
+    "meta": {
+      "user": "user_340",
+      "account_age_days": 225,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "ggs everyone, fun lobby",
+    "meta": {
+      "user": "user_341",
+      "account_age_days": 577,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "audio desync again, please fix",
+    "meta": {
+      "user": "user_342",
+      "account_age_days": 743,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "f*ck your rules",
+    "meta": {
+      "user": "user_343",
+      "account_age_days": 598,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "chat full of bots",
+    "meta": {
+      "user": "user_344",
+      "account_age_days": 537,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "poggers play, so clean",
+    "meta": {
+      "user": "user_345",
+      "account_age_days": 552,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "mods are useless here",
+    "meta": {
+      "user": "user_346",
+      "account_age_days": 458,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "stop talking and play dude boring",
+    "meta": {
+      "user": "user_347",
+      "account_age_days": 351,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "mods on a power trip tonight",
+    "meta": {
+      "user": "user_348",
+      "account_age_days": 328,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "your mic is clipping bro, hurts my ears",
+    "meta": {
+      "user": "user_349",
+      "account_age_days": 721,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "free followers at http://getfollows.biz",
+    "meta": {
+      "user": "user_350",
+      "account_age_days": 469,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "lagging a bit today?",
+    "meta": {
+      "user": "user_351",
+      "account_age_days": 123,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "f*ck your rules",
+    "meta": {
+      "user": "user_352",
+      "account_age_days": 148,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "that strategy didn't work, but good try",
+    "meta": {
+      "user": "user_353",
+      "account_age_days": 18,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "amazing gameplay as always",
+    "meta": {
+      "user": "user_354",
+      "account_age_days": 446,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "love the vibe tonight",
+    "meta": {
+      "user": "user_355",
+      "account_age_days": 47,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "my bad, i'll be more careful",
+    "meta": {
+      "user": "user_356",
+      "account_age_days": 15,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we discuss that play?",
+    "meta": {
+      "user": "user_357",
+      "account_age_days": 339,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can't wait for the next stream",
+    "meta": {
+      "user": "user_358",
+      "account_age_days": 700,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "subbed for a year, worth every penny",
+    "meta": {
+      "user": "user_359",
+      "account_age_days": 449,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "play my game request or i unsub",
+    "meta": {
+      "user": "user_360",
+      "account_age_days": 185,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "free followers at http://getfollows.biz",
+    "meta": {
+      "user": "user_361",
+      "account_age_days": 645,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can we get a timeout on that spammer pls",
+    "meta": {
+      "user": "user_362",
+      "account_age_days": 619,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "play my game request or i unsub",
+    "meta": {
+      "user": "user_363",
+      "account_age_days": 316,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "your mic is clipping bro, hurts my ears",
+    "meta": {
+      "user": "user_364",
+      "account_age_days": 814,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "play my game request or i unsub",
+    "meta": {
+      "user": "user_365",
+      "account_age_days": 764,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "sorry for spamming earlier, won't happen again",
+    "meta": {
+      "user": "user_366",
+      "account_age_days": 276,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "that strategy didn't work, but good try",
+    "meta": {
+      "user": "user_367",
+      "account_age_days": 500,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "bad word filter sucks i'll bypass it lmao",
+    "meta": {
+      "user": "user_368",
+      "account_age_days": 136,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "linking my discord for team finders: https://discord.gg/abc",
+    "meta": {
+      "user": "user_369",
+      "account_age_days": 136,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "worst streamer ever, kys",
+    "meta": {
+      "user": "user_370",
+      "account_age_days": 441,
+      "strikes": 3
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "my bad, i'll be more careful",
+    "meta": {
+      "user": "user_371",
+      "account_age_days": 493,
+      "strikes": 1
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "what's the rule on links?",
+    "meta": {
+      "user": "user_372",
+      "account_age_days": 669,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "can we get a timeout on that spammer pls",
+    "meta": {
+      "user": "user_373",
+      "account_age_days": 670,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "you banned my friend for nothing, power trip",
+    "meta": {
+      "user": "user_374",
+      "account_age_days": 566,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "lagging a bit today?",
+    "meta": {
+      "user": "user_375",
+      "account_age_days": 32,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "hey could you explain that strat again?",
+    "meta": {
+      "user": "user_376",
+      "account_age_days": 900,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "that strategy didn't work, but good try",
+    "meta": {
+      "user": "user_377",
+      "account_age_days": 469,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "could be sarcasm, hard to tell",
+    "meta": {
+      "user": "user_378",
+      "account_age_days": 842,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "fps drops during fights",
+    "meta": {
+      "user": "user_379",
+      "account_age_days": 587,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "go kys lol",
+    "meta": {
+      "user": "user_380",
+      "account_age_days": 887,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "ratio + didn't ask + cry more",
+    "meta": {
+      "user": "user_381",
+      "account_age_days": 492,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "linking my discord for team finders: https://discord.gg/abc",
+    "meta": {
+      "user": "user_382",
+      "account_age_days": 819,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "mods are useless here",
+    "meta": {
+      "user": "user_383",
+      "account_age_days": 459,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can we get a timeout on that spammer pls",
+    "meta": {
+      "user": "user_384",
+      "account_age_days": 564,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "maybe they're having a bad day",
+    "meta": {
+      "user": "user_385",
+      "account_age_days": 652,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "subbed for a year, worth every penny",
+    "meta": {
+      "user": "user_386",
+      "account_age_days": 617,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "can you turn down game volume?",
+    "meta": {
+      "user": "user_387",
+      "account_age_days": 466,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "maybe they're having a bad day",
+    "meta": {
+      "user": "user_388",
+      "account_age_days": 290,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "apologies for the earlier comment",
+    "meta": {
+      "user": "user_389",
+      "account_age_days": 770,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "why are you talking about that topic",
+    "meta": {
+      "user": "user_390",
+      "account_age_days": 593,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "subbed for a year, worth every penny",
+    "meta": {
+      "user": "user_391",
+      "account_age_days": 156,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "can we get a timeout on that spammer pls",
+    "meta": {
+      "user": "user_392",
+      "account_age_days": 789,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "your mic is clipping bro, hurts my ears",
+    "meta": {
+      "user": "user_393",
+      "account_age_days": 193,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "this is the best clutch i've seen all week",
+    "meta": {
+      "user": "user_394",
+      "account_age_days": 275,
+      "strikes": 0
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "my bad, didn't mean to be toxic",
+    "meta": {
+      "user": "user_395",
+      "account_age_days": 227,
+      "strikes": 1
+    },
+    "persona": "lenient_supportive"
+  },
+  {
+    "comment": "free money hack, dm me",
+    "meta": {
+      "user": "user_396",
+      "account_age_days": 451,
+      "strikes": 2
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "why did you timeout me i just asked a question",
+    "meta": {
+      "user": "user_397",
+      "account_age_days": 624,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "can i share my montage link?",
+    "meta": {
+      "user": "user_398",
+      "account_age_days": 340,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  },
+  {
+    "comment": "mods asleep, bots posting links nonstop",
+    "meta": {
+      "user": "user_399",
+      "account_age_days": 577,
+      "strikes": 1
+    },
+    "persona": "firm_professional"
+  },
+  {
+    "comment": "that strategy didn't work, but good try",
+    "meta": {
+      "user": "user_400",
+      "account_age_days": 240,
+      "strikes": 0
+    },
+    "persona": "nuanced_patient"
+  }
 ]
-
